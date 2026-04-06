@@ -1,5 +1,0 @@
-region            = "us-east-1"
-instance_type_web = "t3.micro"
-instance_type_db  = "t3.small"
-key_pair_name     = "techcorp-key"
-my_ip             = "102.91.92.222/32"
